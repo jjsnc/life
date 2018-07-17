@@ -32,3 +32,28 @@
 
 16、 Linux Cross Reference by Free Electrons 在线查看内核代码及不同版本的差异
 
+17、 单元测试工具PHPUnit
+
+18、 功能测试工具 PhantomJS
+ 
+19、 依赖管理/程序包管理器 PHP的依赖管理是composer，js的依赖管理是npm和bower，C#的是nuget 
+
+20、 流程管理/构建工具 JavaScript有grunt和gulp，PHP有Phing，Java有ANT。我用grunt比较多
+
+21、  Live Reload 我用的Live Reload是grunt-contrib-watch
+
+22、 代码质量分析工具 JS Hint
+
+23、 持续集成 Jenkins
+
+     持续集成的主要流程如下：
+
+     1.检查版本控制库是否更新
+
+     2.如果更新，就下载最新版本的代码
+     
+     3.构建
+
+     4.测试
+
+     5.报告
